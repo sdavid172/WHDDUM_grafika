@@ -1,0 +1,82 @@
+# Blender 3.5.1 MTL File: 'None'
+# www.blender.org
+
+newmtl g_eye_shadow
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:/Users/oem/Contacts/Downloads/doc-hudson/Documents/Tools/3D Objects Tools/Noesis v4451/g_eye_shadow
+
+newmtl g_glass
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:/Users/oem/Contacts/Downloads/doc-hudson/Documents/Tools/3D Objects Tools/Noesis v4451/g_glass
+
+newmtl hud_body
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:/Users/oem/Contacts/Downloads/doc-hudson/Documents/Tools/3D Objects Tools/Noesis v4451/hud_body
+
+newmtl hud_breaklight_glow
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:/Users/oem/Contacts/Downloads/doc-hudson/Documents/Tools/3D Objects Tools/Noesis v4451/hud_breaklight_glow
+
+newmtl hud_eye_l
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:/Users/oem/Contacts/Downloads/doc-hudson/Documents/Tools/3D Objects Tools/Noesis v4451/hud_eye_l
+
+newmtl hud_eye_r
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:/Users/oem/Contacts/Downloads/doc-hudson/Documents/Tools/3D Objects Tools/Noesis v4451/hud_eye_r
+
+newmtl hud_tire
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:/Users/oem/Contacts/Downloads/doc-hudson/Documents/Tools/3D Objects Tools/Noesis v4451/hud_tire
+
+newmtl hud_under
+Ns 200.000000
+Ka 1.000000 1.000000 1.000000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd C:/Users/oem/Contacts/Downloads/doc-hudson/Documents/Tools/3D Objects Tools/Noesis v4451/hud_under

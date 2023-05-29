@@ -1,0 +1,62 @@
+# Blender 3.5.1 MTL File: 'None'
+# www.blender.org
+
+newmtl SanClifft05_LAw2.0
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/grassshort2long256.PNG
+map_d C:/grassshort2long256.PNG
+
+newmtl SanClifft05_LAw2.1
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/whiteconc01.PNG
+map_d C:/whiteconc01.PNG
+
+newmtl SanClifft05_LAw2.2
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/gymshop2_LAe.PNG
+map_d C:/gymshop2_LAe.PNG
+
+newmtl SanClifft05_LAw2.3
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/decobuild2b_LAn.PNG
+map_d C:/decobuild2b_LAn.PNG
+
+newmtl SanClifft05_LAw2.4
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/decobuild2_LAn.PNG
+map_d C:/decobuild2_LAn.PNG
+
+newmtl SanClifft05_LAw2.5
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+illum 1
+map_Kd C:/stormdrain6.PNG
+map_d C:/stormdrain6.PNG
